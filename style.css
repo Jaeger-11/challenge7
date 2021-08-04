@@ -3,6 +3,7 @@
 body{
     display: flex;
     justify-content: center;
+    align-content: center;
     font-size: 13px;
     background-color: hsl(210, 46%, 95%);
     font-family: 'Barlow Semi Condensed', sans-serif;
