@@ -17,7 +17,6 @@ body{
     grid-template-columns:1fr 1fr 1fr 1fr;
     grid-gap: 1.5%;
     width: 80%;
-    grid-auto-rows: 1fr 1fr;
 }
 
 .ImageNameBox{
